@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chocolate Chip Cookies Recipe</title>
+    <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "Recipe",
+          "name": "Chocolate Chip Cookies",
+          "author": {
+            "@type": "Person",
+            "name": "John Doe"
+          },
+          "datePublished": "2024-05-30",
+          "description": "A classic recipe for delicious chocolate chip cookies.",
+          "image": "https://www.example.com/cookie-image.jpg",
+          "recipeIngredient": [
+            "2 cups all-purpose flour",
+            "1 tsp baking soda",
+            "1/2 tsp salt",
+            "1 cup unsalted butter, softened",
+            "3/4 cup granulated sugar",
+            "3/4 cup packed brown sugar",
+            "1 tsp vanilla extract",
+            "2 large eggs",
+            "2 cups semisweet chocolate chips"
+],
+"recipeInstructions": [
+{
+"@type": "HowToStep",
+"text": "Preheat oven to 350°F (175°C). Line baking sheets with parchment paper."
+},
+{
+"@type": "HowToStep",
+"text": "In a medium bowl, whisk together flour, baking soda, and salt. Set aside."
+},
+{
+"@type": "HowToStep",
+"text": "In a large bowl, cream together butter, granulated sugar, and brown sugar until smooth. Beat in eggs, one at a time, then stir in vanilla."
+},
+{
+"@type": "HowToStep",
+"text": "Gradually blend dry ingredients into the creamed mixture."
+},
+{
+"@type": "HowToStep",
+"text": "Stir in chocolate chips."
+},
+{
+"@type": "HowToStep",
+"text": "Drop rounded tablespoons of dough onto prepared baking sheets."
+},
+{
+"@type": "HowToStep",
+"text": "Bake for 10 to 12 minutes or until edges are golden brown. Allow cookies to cool on baking sheet for 5 minutes before transferring to wire racks to cool completely."
+}
+],
+"nutrition": {
+"@type": "NutritionInformation",
+"calories": "240 calories",
+"fatContent": "12 g",
+"carbohydrateContent": "32 g",
+"proteinContent": "3 g"
+},
+"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"reviewCount": "85"
+}
+}
+</script>
+
+</head>
+<body>
+    <!-- Content of the recipe -->
+</body>
+</html>
+```
